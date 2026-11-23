@@ -1,0 +1,7 @@
+{
+  "name": "Afghan date (Solar Hijri)",
+  "author": "Custom build",
+  "version": "1.0.0",
+  "supportedFieldTypes": ["text"],
+  "externalJs": ["cal.js"]
+}
